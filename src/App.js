@@ -216,7 +216,7 @@ const AdditiveCard = ({ additive, onClick }) => {
         borderRadius: '10px', 
         boxSizing: 'border-box', 
         transition: 'background-color 0.3s ease',
-        height: '40px', 
+        height: '37px', 
         display: 'flex', 
         alignItems: 'center', 
         justifyContent: 'center', 
