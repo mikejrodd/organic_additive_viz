@@ -224,7 +224,12 @@ const AdditiveCard = ({ additive, onClick }) => {
       }}
     >
       <CardContent style={{ textAlign: 'center', padding: '4px' }}>
-        <Typography variant="body2">{additive.name}</Typography>
+        <Typography 
+          variant="body2" 
+          style={{ lineHeight: '1.0' }} // Adjust line height here
+        >
+          {additive.name}
+        </Typography>
       </CardContent>
     </Card>
   );
