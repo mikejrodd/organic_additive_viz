@@ -167,7 +167,7 @@ const App = () => {
       />
       <div style={{ flexGrow: 1, overflow: 'hidden', marginLeft: `${drawerWidth}px` }}>
         <div style={{ textAlign: 'center', padding: '16px 0px 0px 0px', backgroundColor: '#FAF9F6', borderBottom: '1px solid #e0e0e0' }}>
-          <Typography variant="h4" style={{ color: '#7b1fa2', padding: '20px 0 0 0', borderBottom: 'none', outline: 'none'  }}>
+          <Typography variant="h4" style={{ color: '#333', padding: '20px 0 0 0', borderBottom: 'none', outline: 'none'  }}>
             Visualize the large number of additives that are permitted in Organic wine
           </Typography>
           <div style={{ textAlign: 'center', padding: '8px', backgroundColor: '#FAF9F6', marginBottom: '20px' }}>
