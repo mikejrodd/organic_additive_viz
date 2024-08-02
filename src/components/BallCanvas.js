@@ -21,7 +21,7 @@ const BallCanvas = ({ balls, engine, drawerWidth, boundaries }) => {
         width: canvasWidth,
         height: canvasHeight,
         wireframes: false,
-        background: '#FAF9F6'
+        background: '#ffffff'
       }
     });
 
@@ -97,7 +97,7 @@ const BallCanvas = ({ balls, engine, drawerWidth, boundaries }) => {
         
         // Background color
         // background: '#fafafa',                  // Light gray background
-        background: '#FAF9F6',               // White background
+        background: '#ffffff',               // White background
         // background: '#000000',               // Black background
         
         // Overflow behavior

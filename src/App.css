@@ -1,5 +1,5 @@
 body {
-  background-color: #FAF9F6;
+  background-color: #ffffff;
   margin: 0;
   font-family: 'Roboto', sans-serif;
   overflow: hidden; /* Ensure the canvas fills the screen */
@@ -14,7 +14,7 @@ h4 {
   justify-content: center;
   align-items: center;
   height: 60px;
-  background-color: #FAF9F6;
+  background-color: #ffffff;
 }
 
 .hidden {

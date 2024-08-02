@@ -13,7 +13,7 @@ const Popout = ({ additive, onClose }) => {
         left: 0,
         width: '100%',
         height: '100%',
-        backgroundColor: 'rgba(0, 0, 0, 0.5)',
+        backgroundColor: 'rgba(250, 249, 246, 0.5)',
         display: 'flex',
         alignItems: 'center',
         justifyContent: 'center',
