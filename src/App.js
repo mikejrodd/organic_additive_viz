@@ -166,7 +166,7 @@ const App = () => {
         onCategoryChange={handleCategoryChange} 
       />
       <div style={{ flexGrow: 1, overflow: 'hidden', marginLeft: `${drawerWidth}px` }}>
-        <div style={{ textAlign: 'center', padding: '16px 0px 0px 0px', backgroundColor: '#FAF9F6', borderBottom: '1px solid #e0e0e0' }}>
+        <div style={{ position: 'sticky', textAlign: 'center', padding: '16px 0px 0px 0px', backgroundColor: '#FAF9F6', borderBottom: '1px solid #e0e0e0', zIndex: 1200 }}>
           <Typography variant="h4" style={{ color: '#333', padding: '20px 0 0 0', borderBottom: 'none', outline: 'none'  }}>
             Visualize the large number of additives that are permitted in Organic wine
           </Typography>
@@ -176,7 +176,7 @@ const App = () => {
             </Typography>
           </div>
         </div>
-        <div style={{ position: 'absolute', top: '135px', left: `${drawerWidth}px`, width: `calc(100% - ${drawerWidth}px - 16px)`, padding: '8px', display: 'grid', gridTemplateColumns: 'repeat(10, 1fr)', gap: '2px', zIndex: 1000, marginRight: '16px' }}>
+        <div style={{ position: 'absolute', top: '132px', left: `${drawerWidth}px`, width: `calc(100% - ${drawerWidth}px - 16px)`, padding: '8px', display: 'grid', gridTemplateColumns: 'repeat(10, 1fr)', gap: '3px', zIndex: 1000, marginRight: '16px' }}>
           {activeAdditives.map((additive, index) => (
             <AdditiveCard key={index} additive={additive} onClick={() => setSelectedAdditive(additive)} />
           ))}
