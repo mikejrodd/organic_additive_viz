@@ -1,0 +1,833 @@
+{
+    "additives": [
+      {
+        "category": "Yeast Protection",
+        "additives": [
+          {
+            "name": "Ecobiol Pied De Cuve",
+            "description": "Inactive yeast (Saccharomyces cerevisiae). Provides a wealth of secondary nutrients which allow the yeast cells to keep their functions intact."
+          },
+          {
+            "name": "Ecobiol Pied De Cuve Arom",
+            "description": "Inactive yeast and autolysed yeast (Saccharomyces cerevisiae) packed with free (bioavailable) amino acids which adds vitamins, minerals, fatty acids and sterols to the medium."
+          }
+        ]
+      },
+      {
+        "category": "Pesticide Reduction",
+        "additives": [
+          {
+            "name": "Absolute MV",
+            "description": "This product selectively reduces pesticide content. For use during alcoholic fermentation or during clarification of the wine. Can be used on both red and white wines."
+          },
+          {
+            "name": "Absolute SP",
+            "description": "Blend of yeast hulls from various strains of S. cerevisiae. Ideal for reducing pesticide residues, which can potentially inhibit alcoholic fermentation or bubble production. Absolute SP is recommended for use in base wines destined to become sparkling wines."
+          }
+        ]
+      },
+      {
+        "category": "Detoxify the Biomass",
+        "additives": [
+          {
+            "name": "CellClean",
+            "description": "100% Saccharomyces cerevisiae yeast hulls with high detoxifying power. Cellclean yeast hulls absorb alcoholic fermentation inhibitors such as medium-chain fatty acids (hexanoic acid, octanoic acid and decanoic acid) and residue of plant protection products."
+          }
+        ]
+      },
+      {
+        "category": "Optimization of Aroma Biosynthesis",
+        "additives": [
+          {
+            "name": "Aromactivit 1",
+            "description": "100% organic nutrient. When used just after adding the yeast to the must, it leads to an increase in the aroma-creating metabolic activities of the yeast, stimulating in particular the expression of fruity and floral notes."
+          },
+          {
+            "name": "Aromactivit 2",
+            "description": "Composite nutrient which, when used 1/3 of the way through alcoholic fermentation, helps to increase and optimize the aroma-creating metabolic activities of the yeast, stimulating in particular the expression of fruity and floral notes."
+          }
+        ]
+      },
+      {
+        "category": "Organic Nutrition",
+        "additives": [
+          {
+            "name": "Activit O",
+            "description": "An alcoholic fermentation nutrient, 100% organic with added thiamine. When used in yeast inoculation and 1/3 of the way through fermentation, it generates greater production of fruity and floral aromas and reduces the production of sulphur."
+          },
+          {
+            "name": "Activit SafeTM",
+            "description": "A 100% organic nutrient to be used at the two-thirds stage of alcoholic fermentation. Made from a yeast autolysate with a high aminic-nitrogen content and yeast cell walls which adsorb the inhibitory toxins that can accumulate during fermentation. Allows the yeast populations to activate their sugar-consuming metabolisms and to limit the stress they suffer as a result of the accumulation of toxic substances."
+          },
+          {
+            "name": "Phosphates Titres",
+            "description": "Nitrogen-rich additive designed to allow yeasts to multiply more successfully."
+          }
+        ]
+      },
+      {
+        "category": "Mixed Nutrition",
+        "additives": [
+          {
+            "name": "Activit",
+            "description": "A fermentation activator, made up of ammonium salts, inactive yeast and thiamine. Generates organic and inorganic nitrogen and has a detoxifying effect, allowing the full aromatic expression of the yeast."
+          },
+          {
+            "name": "Activit AD",
+            "description": "Nutrient made up of organic and inorganic nitrogen (biammonic phosphate) and thiamine. Unlike conventional complex nutrients, the main organic base is an autolyzed yeast."
+          },
+          {
+            "name": "Ecobiol Perlage",
+            "description": "A special regulator for secondary fermentation that generate ammoniacal nitrogen and amino-acid nitrogen. Does not contain inert material. Enables the yeast to express its aromatic potential in full. Does not generate sulphates."
+          },
+          {
+            "name": "Ecobiol Blanc",
+            "description": "Nutritional supplement with antioxidant functions derived from yeast hulls."
+          }
+        ]
+      },
+      {
+        "category": "Inorganic Nutrition",
+        "additives": [
+          {
+            "name": "Phosphate diammonique",
+            "description": "Inorganic nutrition."
+          },
+          {
+            "name": "FosfoVit",
+            "description": "Yeast nutrient made up of phosphate and thiamine. Suitable for use in ORGANIC wine production."
+          },
+          {
+            "name": "Thiamine",
+            "description": "Thiamine hydrochloride (vitamin B1) which facilitates the growth of yeasts and improves the vitality of alcoholic fermentation."
+          }
+        ]
+      },
+      {
+        "category": "Yeasts for Alcoholic Fermentation",
+        "additives": [
+          {
+            "name": "eXtreme",
+            "description": "Saccharomyces cerevisiae strain isolated in Napa Valley, California. Ideal for optimal management of the alcoholic fermentation of quality wines with a high alcohol content. Highly compatible with the co-inoculation procedure."
+          },
+          {
+            "name": "C58",
+            "description": "For elegant and complex ageing red wines, where the main desired features are taste characteristics and primary and secondary aromas."
+          },
+          {
+            "name": "T73",
+            "description": "For balanced young or new wines, rich in fragrances (red fruits), while respecting the typical colour of the grape variety."
+          },
+          {
+            "name": "CGC62",
+            "description": "For “important” white wines, where the aim is to exalt the olfactory impact in terms of intensity and complexity. For floral wines (white flowers) and fruity wines (citrus fruit in general and wild apple)."
+          },
+          {
+            "name": "EM2",
+            "description": "For “important” white wines or ageing white wines, where the aim is to exalt primary aromas, the typical character of the grape variety and the sensory complexity of the wine."
+          },
+          {
+            "name": "Varietal Touch",
+            "description": "A special yeast for wines with a strong varietal character, ideal for quality white wines. Unique enzyme properties reveal the varietal aromas present in the must."
+          },
+          {
+            "name": "SP665",
+            "description": "For red and white wines, especially recommended in prise de mousse to produce wine that reflects the typical characteristics of the area and the grape variety. For musts that are difficult to process in limited conditions (amarone, passiti etc.)."
+          },
+          {
+            "name": "VDP",
+            "description": "For white wines with a strong aromatic character, used to enhance the aromatic and floral components. Especially recommended for the prise de mousse of neutral or semi-aromatic wines."
+          },
+          {
+            "name": "eXtase",
+            "description": "Yeast isolated from Sauvignon Blanc grapes in the Bordeaux region. Enhances the strength of aromas – in particular citrussy notes, which provide a very pleasant sense of freshness on the nose and in the mouth. Facilitates the development of a fruity aromatic profile (esters/acetates) at low temperatures, while at higher average temperatures it encourages the development of very intense thiol and citrus aromas."
+          }
+        ]
+      },
+      {
+        "category": "Treatments Containing Selected Yeast Derivatives",
+        "additives": [
+          {
+            "name": "Ecobiol Rouge",
+            "description": "A product derived from yeast hulls, rich in rapid-release parietal polysaccharides. When used during fermentation, it makes it possible to obtain more stable wine in terms of colour and flavour (softness and structure) and the bouquet in general."
+          },
+          {
+            "name": "Ecobiol SH",
+            "description": "An alcoholic fermentation nutrient without ammonium salts, which only generates amino-acid nitrogen. Also reduces hints of sulphur that develop during alcoholic fermentation."
+          },
+          {
+            "name": "Fullprotect",
+            "description": "This blend of tannins and yeast polysaccharides is effective thanks to the synergy between specific polysaccharides and tannins, which leads to effective preservation of colour, aromas and flavours in white and rosé wines. Performs a targeted action against oxidation at the pre-fermentation stages. Fullprotect is an effective alternative to using SO2."
+          }
+        ]
+      },
+      {
+        "category": "Aging Adjuvants",
+        "additives": [
+          {
+            "name": "Netarom",
+            "description": "An ageing additive made with inactive yeast selected for its ability to absorb products responsible for the reduction smell."
+          },
+          {
+            "name": "Netarom Extra",
+            "description": "An ageing additive made with inactive yeast rich in copper, makes it possible to absorb products that cause reduction smell without adding copper to the wine."
+          },
+          {
+            "name": "Sphere Blanc",
+            "description": "A complex formula made with yeast rich in parietal polysaccharides. Generates a tenfold increase in sensations of fat, roundness and volume in the mouth."
+          },
+          {
+            "name": "Sphere Express",
+            "description": "A complex formula made with yeast rich in parietal polysaccharides. Generates a tenfold increase in sensations of fat, roundness and volume in the mouth."
+          },
+          {
+            "name": "Sphere Rouge",
+            "description": "A complex formula made with yeast rich in parietal polysaccharides. Generates a tenfold increase in sensations of fat, roundness and volume in the mouth."
+          }
+        ]
+      },
+      {
+        "category": "Pre-bottling Treatments",
+        "additives": [
+          {
+            "name": "ultiMA fresh",
+            "description": "A product made with special completely soluble mannoproteins. When added to the wine before bottling, it stabilises the softness ('sugariness') and aromatic persistence by increasing the overall freshness of the wine. It does not alter the filterability of the wine."
+          },
+          {
+            "name": "ultiMA soft",
+            "description": "A product made with special completely soluble mannoproteins. When added to the wine before bottling, it stabilises the softness ('sugariness') and aromatic persistence by increasing salinity and roundness and decreasing acidic edges. It does not alter the filterability of the wine."
+          },
+          {
+            "name": "ultiMA Ready Life",
+            "description": "Liquid preparation made from selected mannoproteins which interacts with the aromatic components of the wine. Increases the colloidal balance of the wine and increases both length in the mouth and 'sugariness'."
+          },
+          {
+            "name": "ultiMA Ready Expression",
+            "description": "Selected mannoprotein fractions in liquid form for instant activation and solubility in the wine to add a touch of freshness in terms of the balance of flavours. In red wines, this product is highly effective at reducing sourness and astringency, while in white wines it enhances sapidity."
+          },
+          {
+            "name": "ultiMA Ready Fizz",
+            "description": "Selected mannoprotein fractions in liquid form for instant activation and solubility in the wine, leading to creamier bubbles. Provides significant help in attaining a finer perlage in sparkling wines produced using the Charmat method."
+          },
+          {
+            "name": "ultiMA Jump",
+            "description": "Preparation made from 100%-soluble yeast mannoproteins which have been selected specially for their ability to improve white and rosé wines. Particularly effective at drawing out citrussy thiol notes, leading to intense freshness in the mouth. Brings the structure of wines back into balance, reduces dryness and astringency, and increases the persistence of aromas and flavours."
+          }
+        ]
+      },
+      {
+        "category": "Oenological Enzymes",
+        "additives": [
+          {
+            "name": "ClearSpeed",
+            "description": "A granular pectolytic enzyme to accelerate the clarification of white must, thereby guaranteeing fresher, fruitier aromas."
+          },
+          {
+            "name": "SweetPress",
+            "description": "A granular pectolytic enzyme for the skin maceration of white grapes. Conducive to aromatic extraction."
+          },
+          {
+            "name": "TrueColor",
+            "description": "A granular pectolytic enzyme for maceration of red grapes. Conducive to the breakup of tannins, polysaccharides and aromatic precursors contained in the skin."
+          },
+          {
+            "name": "ProcessExtreme",
+            "description": "In granule form, for clarifying or macerating troublesome base materials. Active even at low pH and in difficult conditions in general. Suitable for working on sparkling-wine bases or not-fully-ripe grapes."
+          },
+          {
+            "name": "P110L",
+            "description": "A liquid enzyme formula for the clarification of white must. Makes it possible to obtain clear must in rapid time."
+          },
+          {
+            "name": "PML",
+            "description": "A liquid enzyme formula for the pre-fermentation maceration of white grape varieties. Conducive to the release of aromatic precursors. Increases the yield of flower must."
+          },
+          {
+            "name": "PXL-09",
+            "description": "A liquid enzyme formula for extraction from red grape skins. Improves the overall quality and the production processes."
+          },
+          {
+            "name": "Flotto Flash",
+            "description": "A liquid enzyme for continuous and discontinuous flotation. Makes it possible to obtain clear must in rapid time and at low temperatures."
+          },
+          {
+            "name": "Clear Flash",
+            "description": "A liquid enzyme for the clarification of white wines. Makes it possible to obtain clear must in rapid time and at low temperatures."
+          },
+          {
+            "name": "Press Flash",
+            "description": "A liquid enzyme for the skin maceration of white grapes."
+          },
+          {
+            "name": "Color Flash",
+            "description": "A liquid enzyme for extraction and stabilisation during red maceration."
+          },
+          {
+            "name": "PX5",
+            "description": "A solid enzyme formula for optimising the extraction of precursors and polyphenols from red grape varieties. Improves the sensory profile."
+          }
+        ]
+      },
+      {
+        "category": "Bacteria for Malolactic Fermentation",
+        "additives": [
+          {
+            "name": "Extraflore",
+            "description": "Direct inoculation bacteria (MBR). Increase spicy and fruity notes and the sensation of roundness and volume. Ideal when used in the post-alcoholic fermentation inoculation technique and suitable above all for red wines."
+          },
+          {
+            "name": "Extraflore Pure Fruit",
+            "description": "Direct-inoculation Oenococcus oeni winemaking bacterium which enhances the purity of fruity notes and regulates malolactic fermentation in difficult conditions. Selected specially for use in red wines and performs robustly in tricky winemaking situations (high alcohol content, excess acidity or, on the other hand, a lack of malic acid and/or low temperatures). Suitable for use in wines of many different origins. Can be added directly to the must or wine. Enhances the purity of the fruity notes in wines and helps increase their roundness."
+          },
+          {
+            "name": "Inoflore",
+            "description": "Direct inoculation bacteria (MBR). Increase fruity and floral notes, resulting in minimum production of diacetyl ('butter note'). Ideal when used in the yeast/bacteria co-inoculation technique and suitable for white, red and rosé wines."
+          },
+          {
+            "name": "Maxiflore Satine",
+            "description": "Winemaking bacteria with a short re-acclimatization period (1-step process) which help reduce astringency and limit buttery aromas."
+          },
+          {
+            "name": "Maxiflore élite",
+            "description": "Winemaking bacteria with a short re-acclimatization period (1-step process). Lends extra structure and aromatic complexity to wines."
+          },
+          {
+            "name": "Inobacter",
+            "description": "Long preparation bacteria (Standard). Suitable for all oenological situations, thanks to low production of diacetyl, and exalt the varietal notes of the wine. Suitable for the preparation of sparkling bases with the traditional method or wines with 'difficult' oenological conditions."
+          }
+        ]
+      },
+      {
+        "category": "Vinification and Fining",
+        "additives": [
+          {
+            "name": "Bentonite Compact Due",
+            "description": "Sodium-activated calcium bentonite particularly recommended for use in clarifying wines, must, fruit juices and vinegar. Provides greater limpidity and stability."
+          },
+          {
+            "name": "E-Benthon Extra",
+            "description": "High-efficacy activated sodium bentonite in powder form. Used in clarification and stabilization processes performed on wine and must. Flocculates rapidly and the lees which sink to the bottom are compact."
+          },
+          {
+            "name": "E-Benthon Super Gran.Spec.Flottaz.",
+            "description": "Activated sodium bentonite in granules particularly useful for flotation."
+          },
+          {
+            "name": "Pentagel",
+            "description": "Maximum-efficacy activated sodium bentonite in granules. Suitable both for removing the lees from must and clarifying and stabilizing wine."
+          }
+        ]
+      },
+      {
+        "category": "Anti-oxidation Treatments",
+        "additives": [
+          {
+            "name": "Clear GT R",
+            "description": "Polycompound clarifying agent free from allergenic substances and GMOs, made from yeast hulls, plant-based proteins obtained from peas and silica gel. Recommended for red wines."
+          },
+          {
+            "name": "Clear GT V",
+            "description": "Polycompound clarifying agent made from silica gel, carbon and plant-based protein derived from peas. Can be used to clarify various types of must and wine."
+          },
+          {
+            "name": "P-Fresh",
+            "description": "Clarifier and stabilizer free from allergenic substances and GMOs, made from plant-based proteins extracted from peas, together with carbon and isinglass. Energetic clarifier leading to bright wines. Optimal for use in clarifying white wines."
+          },
+          {
+            "name": "P-Green",
+            "description": "Polycompound clarifying agent free from allergenic substances and GMOs, made using plant-based proteins obtained from peas together with isinglass. Perfect for clarifying top-quality wines."
+          },
+          {
+            "name": "Alpha Caseinate",
+            "description": "Ultra-pure potassium caseinate, highly soluble and with an exceptionally high protein content. Particularly recommended for the prevention and treatment of oxidation defects in wine."
+          },
+          {
+            "name": "Caseo Star",
+            "description": "Polycompound clarifying agent specially designed for use in white must and wine."
+          }
+        ]
+      },
+      {
+        "category": "Riddling Adjuvants",
+        "additives": [
+          {
+            "name": "Clarifiant S",
+            "description": "Bentonite-based preparation which facilitates the remuage process in sparkling wines. Can be applied both to traditional and automatic remuage procedures."
+          }
+        ]
+      },
+      {
+        "category": "Alternative Solution",
+        "additives": [
+          {
+            "name": "Inofine V",
+            "description": "Plant-based protein extracted from peas; allergen free and GMO free. Combats oxidation in must and wine."
+          },
+          {
+            "name": "Inofine V Mes",
+            "description": "Liquid additive made from pea protein, for performing fining or flotation on must. Recommended as a preventive treatment for musts at high risk of oxidation. Significantly increases resistance to oxidation, enhances sensory properties, reduces bitter tastes and eliminates vegetal or grassy notes from wines subject to oxidative browning."
+          }
+        ]
+      },
+      {
+        "category": "Vegan-friendly Chitosan-based Fining Agents",
+        "additives": [
+          {
+            "name": "NoOx",
+            "description": "A clarifying agent and stabilizer for wines and musts, an alternative to casein, the first non-allergenic and biodegradable formula that does not contain products of animal origin or synthetic products."
+          },
+          {
+            "name": "Qi Fine",
+            "description": "For use in the fining of white and rosé wines. Made using chitosan and pea protein."
+          },
+          {
+            "name": "Qi Fine Mes",
+            "description": "Liquid additive made from fungal-origin chitosan and pea protein, for performing fining or flotation on white and rosé must. Synergistic action of its components leads to quicker, more effective flocculation and sedimentation. Perfect for use in flotation, as it’s easy to use and leads to swift detachment of solid particles from the liquid interface."
+          },
+          {
+            "name": "Qi Up",
+            "description": "For use in flotation procedures on white, rosé and red musts. A highly innovative flotation additive: natural, biodegradable, non-allergenic and free from animal-origin products."
+          },
+          {
+            "name": "Qi Up XC",
+            "description": "For use in flotation procedures on white, rosé and red musts. A highly innovative flotation additive: natural, biodegradable, non-allergenic and free from both animal-origin and pea-based proteins."
+          },
+          {
+            "name": "Qi Up XC Mes",
+            "description": "Liquid additive made from chitosan, for performing fining or flotation on white and rosé must. High surface density charge at the pH of the wine. High level of affinity and reactivity to suspended particles, which means that it produces rapid flocculation."
+          },
+          {
+            "name": "Qi Trapping",
+            "description": "A unique and innovative technological additive, allergen free, consisting of polysaccharides derived from chitin and yeast derivatives, which makes it possible to reduce the concentration of unwanted heavy metals."
+          }
+        ]
+      },
+      {
+        "category": "Fining Agents",
+        "additives": [
+          {
+            "name": "Fyneo",
+            "description": "Protein-rich yeast extract which provides a powerful clarifying action and aid to rapid sedimentation. Fines the wines by eliminating any hard or bitter sensations, yet preserves the desirable sensory characteristics."
+          },
+          {
+            "name": "Atomized Gelatin",
+            "description": "Porcine-derived, food-grade gelatine with a high degree of hydrolysis. Cold soluble. Especially suitable for removing the tannins responsible for astringency and bitter tastes."
+          },
+          {
+            "name": "Powdered Gelatin",
+            "description": "Porcine-derived, food-grade gelatine with strong gelling power (80-100 °BLOOM). Soluble in hot liquid. Suitable for clarifying white and red musts."
+          },
+          {
+            "name": "Istant Gel",
+            "description": "Clarifying agent based on porcine gelatine, in 30% aqueous solution."
+          },
+          {
+            "name": "Istant Gel 45",
+            "description": "Clarifying agent based on porcine gelatine, 45% aqueous solution."
+          },
+          {
+            "name": "Mixgel SA",
+            "description": "High-efficacy polycompound clarifying agent suitable for treating musts, wines and fruit juices. Allows these products to be protected from the cloudiness caused by proteins and from the oxidation of colour-producing substances."
+          },
+          {
+            "name": "Cristalline Liquid",
+            "description": "High-quality liquid isinglass stabilized using sulphur dioxide, ready to use."
+          },
+          {
+            "name": "Cristalline Plus",
+            "description": "Isinglass used to clarify and stabilize white and rosé wines. Enhances the brightness and softness of the wines."
+          },
+          {
+            "name": "Ovoclar",
+            "description": "Egg white for use in clarifying and stabilizing red wines."
+          },
+          {
+            "name": "Xiles 40",
+            "description": "High-quality, highly concentrated (40%) colloidal silica solution which can be used in clarification processes on white musts and wines as well as fruit juices."
+          },
+          {
+            "name": "Betamin 100",
+            "description": "Inorganic polycompound clarifying agent used to treat musts, wines and fruit juices."
+          }
+        ]
+      },
+      {
+        "category": "Stabilizers",
+        "additives": [
+          {
+            "name": "Ready Gum Elite",
+            "description": "Stabilizing solution derived from the Acacia senegal and characterized by a levorotatory action. Suitable for microfiltration, it stabilizes colour, as well adding body, structure and softness to the wine."
+          },
+          {
+            "name": "Ready Gum L",
+            "description": "Stabilizing solution extracted from the Acacia senegal and characterized by a levorotatory action. Has the power to act as a protective colloid on iron, copper, colour-producing matter and colloidal substances."
+          },
+          {
+            "name": "Dry Gum L",
+            "description": "High-quality gum arabic extracted from the Acacia senegal and distinguished by its levorotatory action. Has the power to act as a protective colloid on iron, copper, colour-producing matter and colloidal substances."
+          },
+          {
+            "name": "Ready Gum 20",
+            "description": "Stabilizing solution made using gum arabic extracted from the Acacia seyal. Processing method used leads to an excellent degree of limpidity and stability (NTU < 20). Suitable for microfiltration, increases bitartrate stability and enhances the pleasantness, softness and sensory balance of the wine."
+          },
+          {
+            "name": "Dry Gum R",
+            "description": "High-quality powdered gum arabic extracted from the Acacia seyal and distinguished by its dextrorotatory action. Protective colloid designed to regulate the levels of softness and roundness in the wine."
+          },
+          {
+            "name": "Metacremor 40+",
+            "description": "Metatartaric acid obtained from natural L(+)-tartaric acid with a high esterification index. Displays notable properties as a protective colloid inhibiting the precipitation of potassium bitartrate and neutral calcium tartrate crystals."
+          },
+          {
+            "name": "Metacremor Instant",
+            "description": "Metatartaric acid obtained from natural L(+)-tartaric acid with an esterification index between 36 and 38. Displays notable properties as a protective colloid inhibiting the precipitation of potassium bitartrate and neutral calcium tartrate crystals."
+          },
+          {
+            "name": "Potassio Tartrato Acido",
+            "description": "Cristallizer for tartrate stabilization."
+          }
+        ]
+      },
+      {
+        "category": "Treatments to Correct Specific Defects",
+        "additives": [
+          {
+            "name": "Carbo Grané",
+            "description": "Inert activated carbon with a strong adsorption capacity. Its particularly large internal surface (from 1300 to 1400 m2/g), gives it a great de-colouring power in cloudy musts and wines. In granule form to allow for total ease of application."
+          },
+          {
+            "name": "Carbone Decol. Superattivo CP",
+            "description": "Chemically activated plant-based carbon. The activation process makes it possible to obtain highly porous particles which can adsorb different types of molecules, depending on their size."
+          },
+          {
+            "name": "No-Dust Carbon",
+            "description": "Chemically activated plant-based carbon. Moist, in order to reduce powder dispersion."
+          },
+          {
+            "name": "Topcarbon",
+            "description": "Chemically activated plant-based carbon. Presenting as a very fine powder, this carbon is highly porous and has a significant contact surface between the carbon and the medium it is added to."
+          },
+          {
+            "name": "Evf-Free",
+            "description": "Formula composed of silica gel and activated carbon specially selected for its ability to adsorb off-flavours."
+          },
+          {
+            "name": "Lumyclean Rex",
+            "description": "Blend of a special activated vegetable charcoal – selected for its high level of purity – and silica gel. Effective at very low doses and with short contact times. Special treatment for white and rosé wines that helps winemakers avoid the so-called ‘light-struck taste’ caused by the photoreduction of riboflavin (a photosensitive molecule) following exposure to natural or artificial light when the wine has been bottled in colourless glass. Does not alter the colour of rosé wines if correct dosages are used."
+          }
+        ]
+      },
+      {
+        "category": "Microbiological Stabilization",
+        "additives": [
+          {
+            "name": "OxyLess U",
+            "description": "A special antioxidant for red and white grapes. Prevents browning and oxidation of the must aromas."
+          },
+          {
+            "name": "OxyLess V",
+            "description": "A special antioxidant for red and white wines. Protects against oxidation and stabilizes the anthocyanin fraction still unstable during wine racking processes."
+          },
+          {
+            "name": "Ferroblock",
+            "description": "A special polyvalent antioxidant to prevent wine oxidation."
+          },
+          {
+            "name": "Métabisulfite De Potassium",
+            "description": "Preservative-antioxidant."
+          }
+        ]
+      },
+      {
+        "category": "Tannins",
+        "additives": [
+          {
+            "name": "Essential AntiOxidant",
+            "description": "Tannin derived from oak gall with a strong antioxidant action. Inhibits the enzyme activity responsible for oxidation in must obtained from grapes affected by Botrytis. Ultra-pure tannin with a high polyphenol content. When the recommended dosages are applied, does not create bitter or astringent notes."
+          },
+          {
+            "name": "Gallotan G",
+            "description": "Can be used as an adjuvant in clarification operations and is an excellent antioxidant whose action is enhanced when used with sulphur. Protects aromatic substances against oxidation and is essential for treating must infected by botrytis."
+          },
+          {
+            "name": "Tan Flavour FF",
+            "description": "A proanthocyanidinic tannin for white and red winemaking processes, rich in flavonoids and aromatic precursors."
+          },
+          {
+            "name": "Cromox G",
+            "description": "A tannin derived from a blend of proanthocyanidinic tannins and gallotannins. Cromox has pronounced antioxidant and stabilising action of the colouring part."
+          },
+          {
+            "name": "Cromofix SR",
+            "description": "An oenological tannin for colour stabilisation in red wines. The chemical nature of the tannin in Cromofix is extremely similar to the condensed tannins in grapes."
+          },
+          {
+            "name": "Tanin TC",
+            "description": "A pure ellagic chestnut tannin characterised by the absence of bitterness and high chemical reactivity."
+          },
+          {
+            "name": "Tanin SR",
+            "description": "A pure quebracho tannin for colour stabilisation."
+          },
+          {
+            "name": "FullColor",
+            "description": "Blend of proanthocyanidins, ellagic tannins and polysaccharides (yeast-derived) to use in the fermentation of red-wine grapes. Aids colour stabilization and enhances flavours."
+          },
+          {
+            "name": "Volutan",
+            "description": "A 100% liquid grape tannin. Thanks to its original extraction method, it is 100% soluble without any precipitation. It is derived solely from white grapes. Used in colour stabilisation and to generate softness in wine."
+          },
+          {
+            "name": "Tanifase Élevage",
+            "description": "Tannin extracted from oak which increases the shelf life of the wine, stabilizes its colour and bouquet and improves its overall balance."
+          },
+          {
+            "name": "Mann Bouquet R16",
+            "description": "A product for red musts, made up with tannins and yeast derivative rich in polysaccharides. Adds complexity and notes of spice and black fruit (currant), and contributes to colour stabilisation."
+          },
+          {
+            "name": "Tanin Bouquet B45",
+            "description": "A citrus tannin for white and rosé musts, which expresses citrus notes, together with effective antioxidant action."
+          },
+          {
+            "name": "Tanin Bouquet R36",
+            "description": "A cherry tannin for red and rosé musts, which expresses notes of red fruit and stabilises the colour."
+          },
+          {
+            "name": "Essential PEP",
+            "description": "A grape seed tannin, ideal for obtaining protein stabilisation and colour stabilisation, and for improving the structure of the wine (ideal if used in conjunction with micro-oxygenation)."
+          },
+          {
+            "name": "Essential PEL",
+            "description": "A proanthocyanidinic tannin derived from white grape skins. Improves the structure, body and softness of the wine. Exalts the primary aromas of the wine by increasing its intensity without affecting its sensory profile."
+          },
+          {
+            "name": "Essential Oak Barrel",
+            "description": "Oak tannin. Used at the pre-bottling stage, it increases the sweetness, the aromatic intensity and fullness of the wine and balances it if it has been aged in oak barrels, enhancing notes of aging. Suitable for red wines."
+          },
+          {
+            "name": "Essential Oak Sweet",
+            "description": "Oak tannin. Used at the pre-bottling stage, it increases the sweetness, the aromatic intensity and fullness of the wine and balances it if it has been aged in oak barrels. Suitable for red, white and rosé wines."
+          },
+          {
+            "name": "Essential Free Veg",
+            "description": "A preparation made using tannins extracted from the wood of exotic trees. Used during the aging stage, it helps mask vegetal and astringent sensations and draws out the varietal notes which are often hidden by 'green' notes. Suitable for white, red and rosé wines."
+          },
+          {
+            "name": "Essential Free Off",
+            "description": "A mixture of oak tannins. Used during the aging stage, it helps to mask sensations of reduction and draw forth varietal notes. Can be used in white, red and rosé wine."
+          },
+          {
+            "name": "Essential Oak Strong",
+            "description": "A preparation made from oak tannins. Used at the pre-bottling stage, it increases the structure and length of the wine and balances it if it has been aged in oak barrels. Enhances notes of aging and tertiary aromas."
+          },
+          {
+            "name": "Essential Passion",
+            "description": "A preparation made from tannins extracted from trees which produce red berries. Draws out fruity notes, sensations of sweetness and the intensity of varietal aromas in the wine. Suitable for red and rosé wines."
+          },
+          {
+            "name": "Essential Oak Progress",
+            "description": "A preparation made from condensed tannins and oak tannins. Used at the aging stage, it increases the structure and aromatic complexity of the wine and helps the wine to age more successfully in wooden barrels. Helps red wines to age better. Perfect for prolonging the persistence of aromas and flavours and lending a sensation of sweetness to the aftertaste of quality wines. Suitable for white, red and rosé wines."
+          },
+          {
+            "name": "Essential Fresh",
+            "description": "A mixture of condensed and gallic tannins. Used at the aging or pre-bottling stage, it helps refresh tired, oxidized wines and allows their varietal notes to come to the fore. Suitable for white, red and rosé wines."
+          },
+          {
+            "name": "Privilege Bleu",
+            "description": "When used on white and rosé wines at the pre-bottling stage, this product helps enhance the structure, fullness and aromatic intensity of the wine, as well as providing a notable antioxidant effect."
+          },
+          {
+            "name": "Privilege Noir",
+            "description": "Useful to enhance notes of red berries, fullness and aromatic intensity. Significant antioxidant effect."
+          },
+          {
+            "name": "Privilege Duo",
+            "description": "Oakwood tannin preparation designed especially for use in malolactic fermentation in tandem with Maxiflore Satine, 48h before inoculation. Synergy between Privilège Duo and Maxiflore Satine boosts the production of aroma precursors which increase sensory hints of woodiness (vanilla)."
+          }
+        ]
+      },
+      {
+        "category": "Wood Substitutes",
+        "additives": [
+          {
+            "name": "Chips Enoquer Tostat. Media Usa",
+            "description": "Chips of American oak wood, lightly toasted."
+          },
+          {
+            "name": "Chips Grano Di Riso Tostat. Media Fr",
+            "description": "Small-sized chips of French oak wood, lightly toasted."
+          },
+          {
+            "name": "Enoquer chips Fr Media",
+            "description": "Chips of French oak wood, lightly toasted."
+          },
+          {
+            "name": "Enoquer chips Fr Media+",
+            "description": "Chips of French oak wood, medium toasted."
+          },
+          {
+            "name": "Enoquer Granulari Media",
+            "description": "Lightly toasted chips."
+          },
+          {
+            "name": "Enoquer Granulari Non T",
+            "description": "Not toasted."
+          },
+          {
+            "name": "Premium Barrel R",
+            "description": "Special blend of medium and medium-well-toasted oak chips for red wines, to replicate the sensory effect obtained by using new oak barrels."
+          },
+          {
+            "name": "Shade Barrel R",
+            "description": "Special blend of well and medium-well-toasted oak chips for red wines, to replicate the sensory effect obtained by aging the wine in second use barrels."
+          },
+          {
+            "name": "Red Fruits R",
+            "description": "Special blend of medium-light-toasted oak chips for red wines, to enhance and amplify notes of red berries in the bouquet."
+          },
+          {
+            "name": "Spicy Flavor R",
+            "description": "Special mixture of well and medium-well-toasted oak chips for red wines, to enhance and amplify aromatic complexity in general, as well as spicy notes."
+          },
+          {
+            "name": "Dark Choc R",
+            "description": "Special mixture of well-toasted oak chips for red wines, to use whenever the desired result is to enhance and amplify aromatic notes reminiscent of vanilla, cappuccino and chocolate above all."
+          },
+          {
+            "name": "Shade Barrel W",
+            "description": "Special blend of medium-toasted oak chips for white wines, to replicate the sensory effect obtained by aging the wine in second use barrels."
+          },
+          {
+            "name": "White Fruits W",
+            "description": "Special mixture of medium-well-toasted oak chips for white wines, to enhance and amplify sweet and fruity notes in the bouquet."
+          },
+          {
+            "name": "Sense Floral W",
+            "description": "Special blend of medium-toasted and medium-well-toasted oak chips for white wines, to enhance and amplify the floral notes."
+          }
+        ]
+      },
+      {
+        "category": "Filtration Additives",
+        "additives": [
+          {
+            "name": "Diaperl/M",
+            "description": "0.9 Darcy permeability. Small particle filtration."
+          },
+          {
+            "name": "Diaperl/V",
+            "description": "1.5 Darcy permeability. Average particle filtration."
+          },
+          {
+            "name": "Diaperl/VV",
+            "description": "2.03 Darcy permeability. Large particle filtration."
+          },
+          {
+            "name": "Diacel CF/M",
+            "description": "Additive specially formulated for average filtration."
+          },
+          {
+            "name": "Diacel CF/Mm",
+            "description": "Additive specially formulated for average filtration."
+          },
+          {
+            "name": "Diacel CF/S",
+            "description": "Additive specially formulated for polishing wines."
+          },
+          {
+            "name": "Diacel CF/S Special",
+            "description": "Additive specially formulated for polishing wines."
+          },
+          {
+            "name": "Diacel CF/V",
+            "description": "Additive specially formulated for primary filtration."
+          },
+          {
+            "name": "Diacel CF/VV",
+            "description": "Additive specially formulated for primary filtration."
+          },
+          {
+            "name": "Diacel FW80",
+            "description": "Additive specially formulated for primary filtration."
+          },
+          {
+            "name": "Drenopor CF 300",
+            "description": "Special formula with a high α-cellulose content designed to form precoats and enhance the efficacy of the filtration process."
+          },
+          {
+            "name": "Drenopor Filter M (White)",
+            "description": "Precoat with strong adsorption capacity for high-performance DE filtration."
+          },
+          {
+            "name": "Drenopor Filter S (Green)",
+            "description": "Precoat with strong adsorption capacity for polishing wines using DE filtration."
+          },
+          {
+            "name": "Hydropor",
+            "description": "Precoat made from pre-hydrated α-cellulose fibres. Ideal product for depth filtration and DE filtration."
+          },
+          {
+            "name": "Hydropor Blend",
+            "description": "Pre-hydrated filtration aid made from α-cellulose fibres and diatoms. Good product to use for polishing wines through DE filtration."
+          },
+          {
+            "name": "Precoat 'SV'",
+            "description": "Filtration aid designed for use in high-performance DE filtration processes and rotary vacuum-drum filters. Permeability: 300-500 hl/h/m2."
+          },
+          {
+            "name": "Precoat Fibra M (White)",
+            "description": "Filtration aid particularly recommended for high-performance DE filtration. Permeability: 250-500 hl/h/m2."
+          },
+          {
+            "name": "Precoat Fibra S (Green)",
+            "description": "Filtration aid suitable for polishing processes. Permeability: 200-350 hl/h/m2."
+          }
+        ]
+      },
+      {
+        "category": "Acidifiers",
+        "additives": [
+          {
+            "name": "Acide Citrique",
+            "description": "Stabilizer/antioxidant."
+          },
+          {
+            "name": "Acide Lactique",
+            "description": "Used to acidify must obtained from very ripe, insufficiently acidic grapes, or on wine."
+          },
+          {
+            "name": "Acide Tartrique L+",
+            "description": "Acidifier."
+          }
+        ]
+      },
+      {
+        "category": "De-acidifiers",
+        "additives": [
+          {
+            "name": "Bicarbonate De Potassium",
+            "description": "Deacidifier."
+          },
+          {
+            "name": "Potassio Tartrato Neutro",
+            "description": "Cristallizer."
+          },
+          {
+            "name": "Tetracomplex",
+            "description": "Polycompound deacidifier for treating white, red and rosé wines."
+          }
+        ]
+      },
+      {
+        "category": "Other Acids",
+        "additives": [
+          {
+            "name": "Acid Ascorbique",
+            "description": "Preservative-antioxidant to prevent wine oxidation."
+          }
+        ]
+      }
+    ]
+  }
+  

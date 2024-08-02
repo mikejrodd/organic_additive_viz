@@ -11,3 +11,36 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#canvas-container {
+  position: absolute;
+  top: 60px;
+  left: 0;
+  width: 100%;
+  height: calc(100% - 60px);
+  background: #fafafa;
+  overflow: hidden;
+}
+
+.tooltip {
+  position: absolute;
+  background: rgba(0, 0, 0, 0.75);
+  color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+  pointer-events: none;
+  z-index: 10; /* Ensure the tooltip is above other elements */
+}
+
+.tooltip-name {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.tooltip-description, .tooltip-category {
+  font-size: 14px;
+}
+
+.tooltip-category {
+  color: grey;
+}

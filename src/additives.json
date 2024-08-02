@@ -1,0 +1,18 @@
+{
+    "additives": [
+      {
+        "category": "Yeast Protection",
+        "additives": [
+          {
+            "name": "Ecobiol Pied De Cuve",
+            "description": "Inactive yeast (Saccharomyces cerevisiae). Provides a wealth of secondary nutrients which allow the yeast cells to keep their functions intact."
+          },
+          {
+            "name": "Ecobiol Pied De Cuve Arom",
+            "description": "Inactive yeast and autolysed yeast (Saccharomyces cerevisiae) packed with free (bioavailable) amino acids which adds vitamins, minerals, fatty acids and sterols to the medium."
+          }
+        ]
+      }
+    ]
+  }
+  
