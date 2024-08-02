@@ -122,7 +122,7 @@ const App = () => {
 
     const ground = Matter.Bodies.rectangle(
       canvasWidth / 2,
-      canvasHeight - wallThickness / 2 + 320,
+      canvasHeight - wallThickness / 2 + 305,
       canvasWidth,
       wallThickness,
       { isStatic: true, render: { fillStyle: '#FAF9F6' } }
@@ -166,15 +166,17 @@ const App = () => {
         onCategoryChange={handleCategoryChange} 
       />
       <div style={{ flexGrow: 1, overflow: 'hidden', marginLeft: `${drawerWidth}px` }}>
-        <div style={{ textAlign: 'center', padding: '16px 0px 0px 0px', backgroundColor: '#FAF9F6' }}>
+        <div style={{ textAlign: 'center', padding: '16px 0px 0px 0px', backgroundColor: '#FAF9F6', borderBottom: '1px solid #e0e0e0' }}>
           <Typography variant="h4" style={{ color: '#7b1fa2', padding: '20px 0 0 0', borderBottom: 'none', outline: 'none'  }}>
             Visualize the large number of additives that are permitted in Organic wine
           </Typography>
-          <Typography variant="body3" style={{ fontFamily: 'Roboto, sans-serif', color: 'grey', padding: '5px 0 0 0', marginTop: '5px' }}>
-            Select additive categories from the list on the left - source: www.perdomini-ioc.com
-          </Typography>
+          <div style={{ textAlign: 'center', padding: '8px', backgroundColor: '#FAF9F6', marginBottom: '20px' }}>
+            <Typography variant="body3" style={{ fontFamily: 'Roboto, sans-serif', color: 'grey', padding: '5px 0 0 0', marginTop: '5px' }}>
+              Select additive categories from the list on the left - source: www.perdomini-ioc.com
+            </Typography>
+          </div>
         </div>
-        <div style={{ position: 'absolute', top: '120px', left: `${drawerWidth}px`, width: `calc(100% - ${drawerWidth}px - 16px)`, padding: '8px', display: 'grid', gridTemplateColumns: 'repeat(10, 1fr)', gap: '2px', zIndex: 1000, marginRight: '16px' }}>
+        <div style={{ position: 'absolute', top: '135px', left: `${drawerWidth}px`, width: `calc(100% - ${drawerWidth}px - 16px)`, padding: '8px', display: 'grid', gridTemplateColumns: 'repeat(10, 1fr)', gap: '2px', zIndex: 1000, marginRight: '16px' }}>
           {activeAdditives.map((additive, index) => (
             <AdditiveCard key={index} additive={additive} onClick={() => setSelectedAdditive(additive)} />
           ))}

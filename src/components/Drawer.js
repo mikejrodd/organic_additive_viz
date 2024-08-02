@@ -8,7 +8,7 @@ const useStyles = makeStyles({
     width: 400,
     position: 'fixed',
     overflowY: 'scroll',
-    backgroundColor: '#FDFDFD !important', // Set the background color here
+    backgroundColor: '#FAF9F6 !important', // Set the background color here
     '&::-webkit-scrollbar': {
       width: '0px',
     },
