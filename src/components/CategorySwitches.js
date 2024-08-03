@@ -15,7 +15,7 @@ const CategorySwitches = ({ categories, activeCategories, onCategoryChange }) =>
           variant="contained"
           onClick={() => onCategoryChange(category)}
           style={{
-            backgroundColor: activeCategories.includes(category) ? '#f1e1f5' : '#FAF9F6',
+            backgroundColor: activeCategories.includes(category) ? '#ffffff' : '#ffffff',
             color: activeCategories.includes(category) ? '#333' : '#333',
             margin: '5px',
             marginBottom: '3px',
@@ -23,7 +23,8 @@ const CategorySwitches = ({ categories, activeCategories, onCategoryChange }) =>
             textTransform: 'none',
             width: '95%',
             height: '40px',
-            borderRadius: '10px',            
+            border: activeCategories.includes(category) ? '4px solid #f1e1f5' : '1 px solid #ffffff',
+            borderRadius: '16px',            
           }}
         >
           {category}

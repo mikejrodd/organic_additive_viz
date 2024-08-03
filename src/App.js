@@ -70,7 +70,7 @@ const App = () => {
   };
 
   const createBall = (x, y, radius, category) => {
-    return Matter.Bodies.polygon(x, y, 6, radius, {
+    return Matter.Bodies.polygon(x, y, 7, radius, {
       restitution: 0,
       friction: 0.1,
       frictionAir: 0.1,
@@ -87,13 +87,13 @@ const App = () => {
     const radius = 35;
     const additives = categories[category] || [];
     const balls = [];
-    const cols = 10; // Number of columns in the grid
+    const cols = 5; // Number of columns in the grid
     const canvasWidth = window.innerWidth - drawerWidth;
     const centerX = canvasWidth / 2; // Center of the canvas horizontally
     const topY = 100; // A fixed position near the top of the canvas
   
     additives.forEach((additive, index) => {
-      const x = centerX + (index % cols - Math.floor(cols / 2)) * (radius * 2) + 250; // Centering the balls horizontally
+      const x = centerX + (index % cols - Math.floor(cols / 2)) * (radius * 2) + 80; // Centering the balls horizontally
       const y = topY + Math.floor(index / cols) * (radius * 2); // Stacking the balls vertically from the top
       const ball = createBall(x, y, radius, category);
       ball.additive = additive;
@@ -166,12 +166,15 @@ const App = () => {
         onCategoryChange={handleCategoryChange} 
       />
       <div style={{ flexGrow: 1, overflow: 'hidden', marginLeft: `${drawerWidth}px` }}>
-        <div style={{ position: 'sticky', textAlign: 'center', padding: '12px 0 0 0', backgroundColor: '#FAF9F6', borderBottom: '1px solid #e0e0e0', zIndex: 1200 }}>
-          <Typography variant="h4" style={{ color: '#333', padding: '16px 0 0 0', borderBottom: 'none', outline: 'none' }}>
-            Visualize the large number of additives that are permitted in Organic wine
+        <div style={{ position: 'sticky', textAlign: 'center', padding: '12px 0 0 0', backgroundColor: '#ffffff', borderBottom: '1px solid #f1e1f5', zIndex: 1200 }}>
+          <Typography 
+            variant="h4" 
+            sx={{ fontFamily: 'Libre Baskerville !important', color: '#7b1fa2', padding: '16px 0 0 0' }}
+          >
+            Visualizing Organic Wine Additives
           </Typography>
-          <div style={{ textAlign: 'center', padding: '4px', backgroundColor: '#FAF9F6', marginBottom: '20px' }}>
-            <Typography variant="body2" style={{ fontFamily: 'Roboto, sans-serif', color: 'grey', padding: '5px 0 0 0', marginTop: '5px' }}>
+          <div style={{ textAlign: 'center', padding: '4px', backgroundColor: '#ffffff', marginBottom: '20px' }}>
+            <Typography variant="body2" sx={{ fontFamily: 'Roboto, sans-serif !important', color: 'grey', padding: '5px 0 0 0', marginTop: '5px' }}>
               Select additive categories from the list on the left - source: {' '}
               <a 
                 href="https://www.perdomini-ioc.com" 
@@ -213,7 +216,7 @@ const AdditiveCard = ({ additive, onClick }) => {
         width: '100%', 
         backgroundColor: 'rgba(250, 249, 246, 0.9)', 
         cursor: 'pointer', 
-        borderRadius: '10px', 
+        borderRadius: '16px', 
         boxSizing: 'border-box', 
         transition: 'background-color 0.3s ease',
         height: '37px', 
@@ -226,7 +229,7 @@ const AdditiveCard = ({ additive, onClick }) => {
       <CardContent style={{ textAlign: 'center', padding: '4px' }}>
         <Typography 
           variant="body2" 
-          style={{ lineHeight: '1.0' }} // Adjust line height here
+          sx={{ fontFamily: 'Roboto, sans-serif !important', lineHeight: '1.0' }} // Adjust line height here
         >
           {additive.name}
         </Typography>

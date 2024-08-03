@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
 body {
   background-color: #ffffff;
   margin: 0;
@@ -6,8 +8,10 @@ body {
 }
 
 h4 {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Libre Baskerville'; /* Ensure correct font-family */
+  color: '#7b1fa2'; /* Ensure font weight if necessary */
 }
+
 
 .controls {
   display: flex;
