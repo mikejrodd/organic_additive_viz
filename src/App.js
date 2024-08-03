@@ -70,7 +70,7 @@ const App = () => {
   };
 
   const createBall = (x, y, radius, category) => {
-    return Matter.Bodies.polygon(x, y, 7, radius, {
+    return Matter.Bodies.polygon(x, y, 6, radius, {
       restitution: 0,
       friction: 0.1,
       frictionAir: 0.1,
@@ -84,7 +84,7 @@ const App = () => {
   };
 
   const generateStackedBalls = (category) => {
-    const radius = 35;
+    const radius = 20;
     const additives = categories[category] || [];
     const balls = [];
     const cols = 5; // Number of columns in the grid
@@ -93,7 +93,7 @@ const App = () => {
     const topY = 100; // A fixed position near the top of the canvas
   
     additives.forEach((additive, index) => {
-      const x = centerX + (index % cols - Math.floor(cols / 2)) * (radius * 2) + 80; // Centering the balls horizontally
+      const x = centerX + (index % cols - Math.floor(cols / 2)) * (radius * 2) + 10; // Centering the balls horizontally
       const y = topY + Math.floor(index / cols) * (radius * 2); // Stacking the balls vertically from the top
       const ball = createBall(x, y, radius, category);
       ball.additive = additive;
