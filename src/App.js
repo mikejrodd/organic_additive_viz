@@ -227,9 +227,17 @@ const AdditiveCard = ({ additive, onClick }) => {
       }}
     >
       <CardContent style={{ textAlign: 'center', padding: '4px' }}>
-        <Typography 
-          variant="body2" 
-          sx={{ fontFamily: 'Roboto, sans-serif !important', lineHeight: '1.0' }} // Adjust line height here
+        <Typography
+          variant="body2"
+          sx={{
+            fontFamily: 'Roboto, sans-serif !important',
+            lineHeight: '1.0',
+            display: '-webkit-box',
+            overflow: 'hidden',
+            textOverflow: 'ellipsis',
+            WebkitBoxOrient: 'vertical',
+            WebkitLineClamp: 2,
+          }}
         >
           {additive.name}
         </Typography>
