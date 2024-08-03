@@ -196,7 +196,7 @@ const App = () => {
             </Typography>
           </div>
         </div>
-        <div style={{ position: 'absolute', top: '130px', left: `${drawerWidth}px`, width: `calc(100% - ${drawerWidth}px - 16px)`, padding: '8px', display: 'grid', gridTemplateColumns: 'repeat(10, 1fr)', gap: '3px', zIndex: 1000, marginRight: '16px' }}>
+        <div style={{ position: 'absolute', top: '130px', left: `${drawerWidth}px`, width: `calc(100% - ${drawerWidth}px - 16px)`, padding: '8px', display: 'grid', gridTemplateColumns: 'repeat(10, 1fr)', gap: '5px', zIndex: 1000, marginRight: '16px' }}>
           {activeAdditives.map((additive, index) => (
             <AdditiveCard key={index} additive={additive} onClick={() => setSelectedAdditive(additive)} />
           ))}
@@ -214,7 +214,7 @@ const AdditiveCard = ({ additive, onClick }) => {
       onClick={onClick} 
       style={{
         width: '100%', 
-        backgroundColor: 'rgba(250, 249, 246, 0.9)', 
+        backgroundColor: 'rgba(250, 249, 246, 0.8)', 
         cursor: 'pointer', 
         borderRadius: '16px', 
         boxSizing: 'border-box', 
