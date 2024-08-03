@@ -13,8 +13,8 @@ const useStyles = makeStyles({
       width: '8px',
     },
     '&::-webkit-scrollbar-thumb': {
-      backgroundColor: '#e2cae8', // Lighter color for the scrollbar thumb
-      borderRadius: '4px',
+      backgroundColor: '#f0e6f2', // Lighter color for the scrollbar thumb
+      borderRadius: '6px',
     },
     '&::-webkit-scrollbar-track': {
       backgroundColor: '#ffffff', // Lighter color for the scrollbar track

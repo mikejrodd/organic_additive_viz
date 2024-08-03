@@ -26,6 +26,7 @@ const Popout = ({ additive, onClose }) => {
           width: '300px',
           padding: '16px',
           position: 'relative',
+          borderRadius: '16px',
         }}
         onClick={(e) => e.stopPropagation()}
       >
@@ -40,9 +41,15 @@ const Popout = ({ additive, onClose }) => {
           <CloseIcon />
         </IconButton>
         <CardContent>
-          <Typography variant="h5">{additive.name}</Typography>
-          <Typography variant="body2" style={{ color: 'grey' }}>{additive.category}</Typography>
-          <Typography variant="body2">{additive.description}</Typography>
+            <Typography variant="h5" sx={{ marginBottom: '8px' }}>
+            {additive.name}
+            </Typography>
+            <Typography variant="body2" sx={{ color: 'grey', marginBottom: '8px' }}>
+            {additive.category}
+            </Typography>
+            <Typography variant="body2" >
+            {additive.description}
+            </Typography>
         </CardContent>
       </Card>
     </div>
